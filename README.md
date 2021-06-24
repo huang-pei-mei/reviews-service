@@ -49,6 +49,13 @@
 
 * Run node Database/databaseHelpers/seedDB to seed the database
 
+* need config.js file in root directory to access s3. module.exports = {
+  key:
+  secretKey:
+  token:
+  ssh:
+}
+
 * MongoDB database setup is in Database/database.js.
 
 * Jest Tests are located in Client/ Tests.
