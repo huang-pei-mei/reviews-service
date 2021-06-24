@@ -13,3 +13,6 @@ config.js
 dist/
 
 *.sh
+
+login.sh
+
