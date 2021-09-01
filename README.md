@@ -70,7 +70,7 @@
 
 * The two endpoints available are books/:id/reviews and /reviews/carouselReviews
 
-* send <GET> request to http://yourEC2Instance:4001/books/:id/reviews
+* send GET request to http://yourEC2Instance:4001/books/:id/reviews
 * returns multiple review objects per id
 * {reviewerName: String,
   reviewerId: Number,
@@ -88,7 +88,7 @@
   location: String}
 
 
-* send <GET> request to http://yourEC2Instance:4001/reviews/carouselReviews <arrayOfBookIds> returns array of infoObjects for modals / carousels
+* send GET request to http://yourEC2Instance:4001/reviews/carouselReviews <arrayOfBookIds> returns array of infoObjects for modals / carousels
 * returns one review object per id
 * {reviewerName: String,
 reviewTitle: string
