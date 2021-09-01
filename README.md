@@ -16,7 +16,7 @@
 
 * mobile and desktop views are styled
 
-* I was responsible for this service. It works on a page with 5 other services to form a mock Audible product page that our team of four built. Our respository located at https://github.com/huang-pei-mei and my proxy server is located at https://github.com/huang-pei-mei/jm-proxy
+* I was responsible for this service. It works on a page with 5 other services to form a mock product page that our team of four built. Our respository located at https://github.com/huang-pei-mei and my proxy server is located at https://github.com/huang-pei-mei/jm-proxy
 
 #### Reviews Screenshots and gif
 <br />
